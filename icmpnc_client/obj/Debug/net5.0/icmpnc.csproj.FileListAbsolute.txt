@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\icmpnc.exe
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\icmpnc.deps.json
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\icmpnc.runtimeconfig.json
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\icmpnc.runtimeconfig.dev.json
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\icmpnc.dll
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\ref\icmpnc.dll
+C:\Users\User\source\repos\icmpnc\bin\Debug\net5.0\icmpnc.pdb
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.AssemblyInfo.cs
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.dll
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\ref\icmpnc.dll
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.pdb
+C:\Users\User\source\repos\icmpnc\obj\Debug\net5.0\icmpnc.genruntimeconfig.cache

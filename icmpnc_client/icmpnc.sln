@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icmpnc_client", "icmpnc_client.csproj", "{1D117C32-ED21-4C80-B3D9-DB0D62255235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "icmpnc_server", "..\icmpnc_server\icmpnc_server.csproj", "{0086122A-C77F-49F1-B226-FA8D8DA35EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D117C32-ED21-4C80-B3D9-DB0D62255235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D117C32-ED21-4C80-B3D9-DB0D62255235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D117C32-ED21-4C80-B3D9-DB0D62255235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D117C32-ED21-4C80-B3D9-DB0D62255235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0086122A-C77F-49F1-B226-FA8D8DA35EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0086122A-C77F-49F1-B226-FA8D8DA35EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0086122A-C77F-49F1-B226-FA8D8DA35EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0086122A-C77F-49F1-B226-FA8D8DA35EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA27B3A-D50E-4A8E-9182-2F9A04F0D846}
+	EndGlobalSection
+EndGlobal
